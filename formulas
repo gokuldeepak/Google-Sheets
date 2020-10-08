@@ -1,0 +1,15 @@
+=VLOOKUP(M2,$A$2:$B$1173,2,0)
+
+
+=ŸourText"&A2&"RemainingText"
+""if you need "
+&A2& for variables
+
+=IF(D3=9,9,10)
+=IF(len(C28)=2,C28,C28)
+=DAY(B2)
+=MONTH(B2)
+=YEAR(B2)
+=RIGHT(B2,11)
+=LEFT(B2,2)
+
